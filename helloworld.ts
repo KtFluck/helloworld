@@ -1,4 +1,5 @@
 
 
 let num: number = 123;
-console.log(num);
+let numStr: string = "123";
+console.log(numStr);
